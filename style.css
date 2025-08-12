@@ -648,7 +648,7 @@ h3.cart-title {
     display: flex;
     align-items: center;
 }
-.swiper-icon.swiper-arrow svg {
+.swiper-arrow svg {
     fill: var(--light-gray-color);
 }
 .swiper-icon.swiper-arrow:hover svg,
